@@ -36,6 +36,7 @@ public class CustomerDaoTest {
         customerDao.save(customer);
 
         System.out.println("测试11111111");
+        System.out.println("cdshi 11111122222222");
     }
 
     @Test
