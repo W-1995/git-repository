@@ -23,6 +23,8 @@ public class JpqlTest {
     public void testFindJpql(){
         Customer customer = customerDao.findJpql("黑马程序员");
         System.out.println(customer);
+
+        System.out.println("修改内容");
     }
 
     @Test
