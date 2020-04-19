@@ -25,6 +25,7 @@ public class JpqlTest {
         System.out.println(customer);
 
         System.out.println("修改内容");
+        System.out.println("测试协同开发");
     }
 
     @Test
