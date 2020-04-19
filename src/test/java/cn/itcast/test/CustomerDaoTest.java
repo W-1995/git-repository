@@ -34,6 +34,8 @@ public class CustomerDaoTest {
         customer.setCustIndustry("it教育");
         customer.setCustLevel("vip");
         customerDao.save(customer);
+
+        System.out.println("测试11111111");
     }
 
     @Test
